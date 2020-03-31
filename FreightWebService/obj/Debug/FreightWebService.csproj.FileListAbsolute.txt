@@ -1,0 +1,7 @@
+c:\users\daniel\documents\visual studio 2013\Projects\FreightWebService\FreightWebService\bin\FreightWebService.dll.config
+c:\users\daniel\documents\visual studio 2013\Projects\FreightWebService\FreightWebService\bin\FreightWebService.dll
+c:\users\daniel\documents\visual studio 2013\Projects\FreightWebService\FreightWebService\bin\FreightWebService.pdb
+c:\users\daniel\documents\visual studio 2013\Projects\FreightWebService\FreightWebService\bin\Oracle.DataAccess.dll
+c:\users\daniel\documents\visual studio 2013\Projects\FreightWebService\FreightWebService\obj\Debug\FreightWebService.csprojResolveAssemblyReference.cache
+c:\users\daniel\documents\visual studio 2013\Projects\FreightWebService\FreightWebService\obj\Debug\FreightWebService.dll
+c:\users\daniel\documents\visual studio 2013\Projects\FreightWebService\FreightWebService\obj\Debug\FreightWebService.pdb
